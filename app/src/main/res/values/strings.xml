@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aa3 Birthday Greetings</string>
+    <string name="welcome">WELCOME \n Let\'s make a Birthday Greeting</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="create">Create</string>
+    <string name="click">birthdayWish</string>
+
+</resources>
